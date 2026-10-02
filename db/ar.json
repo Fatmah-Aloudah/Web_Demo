@@ -1,0 +1,140 @@
+{
+  "language": "ar",
+  "version": 2,
+  "demo": true,
+  "categories": [
+    {
+      "id": "general",
+      "name": "معلومات عامة",
+      "icon": "🧠",
+      "questions": [
+        {
+          "id": "ar-general-1",
+          "type": "text",
+          "question": "أي كوكب يُعرف بالكوكب الأحمر؟",
+          "answer": "المريخ",
+          "points": 100,
+          "timer": 15
+        },
+        {
+          "id": "ar-general-2",
+          "type": "text",
+          "question": "كم عدد القارات على كوكب الأرض؟",
+          "answer": "سبع قارات",
+          "points": 150,
+          "timer": 15
+        },
+        {
+          "id": "ar-general-3",
+          "type": "text",
+          "question": "ما حاصل ضرب 12 × 8؟",
+          "answer": "96",
+          "points": 200,
+          "timer": 10
+        }
+      ]
+    },
+    {
+      "id": "picture",
+      "name": "تحدي الصور",
+      "icon": "🖼️",
+      "questions": [
+        {
+          "id": "ar-picture-1",
+          "type": "image",
+          "question": "انظر إلى الصورة. ما المعلم الذي تمثله هذه الصورة التجريبية؟",
+          "media": "assets/demo/arabic-landmark.svg",
+          "answer": "الأهرامات",
+          "answerMedia": "assets/demo/answer-arabic.svg",
+          "points": 250,
+          "timer": 25
+        },
+        {
+          "id": "ar-picture-2",
+          "type": "image",
+          "question": "تعرّف على المعلم في بطاقة العرض التجريبية.",
+          "media": "assets/demo/landmark.svg",
+          "answer": "معلم تاريخي / أثري",
+          "points": 200,
+          "timer": 20
+        }
+      ]
+    },
+    {
+      "id": "sound",
+      "name": "تحدي الأصوات",
+      "icon": "🔊",
+      "questions": [
+        {
+          "id": "ar-sound-1",
+          "type": "audio",
+          "question": "استمع إلى الصوت. ما التسلسل الذي تسمعه؟",
+          "media": "assets/demo/sound-question.wav",
+          "answer": "دو – مي – صول – دو",
+          "answerMedia": "assets/demo/sound-answer.wav",
+          "points": 300,
+          "timer": 30
+        },
+        {
+          "id": "ar-sound-2",
+          "type": "audio",
+          "question": "هذا مقطع صوتي تجريبي. ما نوع الوسائط الذي تختبره؟",
+          "media": "assets/demo/sound-question.wav",
+          "answer": "صوت",
+          "points": 150,
+          "timer": 15
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "name": "تحدي الفيديو",
+      "icon": "🎬",
+      "questions": [
+        {
+          "id": "ar-video-1",
+          "type": "video",
+          "question": "شاهد المقطع. ما الرمز الذي يظهر في المنتصف؟",
+          "media": "assets/demo/video-question.mp4",
+          "answer": "زر تشغيل / مثلث",
+          "answerMedia": "assets/demo/video-answer.mp4",
+          "points": 350,
+          "timer": 35
+        },
+        {
+          "id": "ar-video-2",
+          "type": "video",
+          "question": "شاهد المقطع التجريبي. ما نوع الوسائط الذي تختبره؟",
+          "media": "assets/demo/video-question.mp4",
+          "answer": "فيديو",
+          "points": 200,
+          "timer": 20
+        }
+      ]
+    },
+    {
+      "id": "mixed",
+      "name": "تحدي متنوع",
+      "icon": "🎯",
+      "questions": [
+        {
+          "id": "ar-mixed-1",
+          "type": "text",
+          "question": "هذا السؤال النصي يحتوي على صورة كوسيط للإجابة. ما حاصل 5 + 7؟",
+          "answer": "12",
+          "answerMedia": "assets/demo/answer-arabic.svg",
+          "points": 200,
+          "timer": 20
+        },
+        {
+          "id": "ar-mixed-2",
+          "type": "text",
+          "question": "ما أكبر محيط على سطح الأرض؟",
+          "answer": "المحيط الهادئ",
+          "points": 200,
+          "timer": 20
+        }
+      ]
+    }
+  ]
+}

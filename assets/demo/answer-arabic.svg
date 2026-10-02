@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#fff"/>
+  <rect x="60" y="60" width="1080" height="580" rx="40" fill="#d7f0e2" stroke="#111" stroke-width="10"/>
+  <text x="600" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" font-weight="800" fill="#111">الإجابة التجريبية</text>
+  <text x="600" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="800" fill="#111">الأهرامات</text>
+  <text x="600" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111">اختبار وسائط الإجابة: صورة ✅</text>
+</svg>

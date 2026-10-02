@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f6d365"/>
+  <rect y="420" width="1200" height="280" fill="#5b8c5a"/>
+  <circle cx="980" cy="120" r="72" fill="#fff3b0"/>
+  <path d="M210 420 L330 230 L450 420 Z" fill="#d88952" stroke="#111" stroke-width="10"/>
+  <path d="M420 420 L560 170 L700 420 Z" fill="#c77b45" stroke="#111" stroke-width="10"/>
+  <path d="M650 420 L790 250 L930 420 Z" fill="#b86b3d" stroke="#111" stroke-width="10"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#111">DEMO PICTURE</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">Which place is shown?</text>
+</svg>
